@@ -1,4 +1,4 @@
-name: econml-dowhy-py38
+name: causal_book_py38
 channels:
   - defaults
   - pytorch
