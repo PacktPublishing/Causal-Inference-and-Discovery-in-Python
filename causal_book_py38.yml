@@ -13,9 +13,10 @@ dependencies:
   - seaborn=0.11.2
   - pytorch=1.10.1
   - cudatoolkit=11.3
-  - pygam=0.8
   - pip:
     - econml==0.12
     - dowhy==0.6
     - gcastle==1.0.3rc3
     - ges==1.0.6
+    - tensorflow
+    - tensorflow_probability
