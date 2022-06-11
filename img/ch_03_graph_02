@@ -1,0 +1,9 @@
+digraph {
+	graph [nodesep=1.5 rankdir=LR ranksep=.6]
+	A
+	X
+	Y
+	A -> Y
+	A -> X
+	X -> Y
+}
