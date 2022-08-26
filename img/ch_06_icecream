@@ -1,0 +1,7 @@
+digraph {
+	ICE [pos="0,0!"]
+	TMP [pos="1.5,.75!"]
+	ACC [pos="3,0!"]
+	TMP -> ICE
+	TMP -> ACC
+}

@@ -1,0 +1,11 @@
+digraph {
+	"Gene X Expression" [pos="4,0!"]
+	Stress [pos="2,1.75!"]
+	"Immune System Response" [pos="7.5,0!"]
+	"Delay of Gratification" [pos="2.5,-1.75!"]
+	"Gene X Expression" -> "Immune System Response"
+	Stress -> "Gene X Expression"
+	Stress -> "Immune System Response"
+	Stress -> "Delay of Gratification"
+	"Gene X Expression" -> "Delay of Gratification"
+}
