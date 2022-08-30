@@ -1,0 +1,11 @@
+digraph {
+	GPS [pos="0,0!"]
+	"Hippocampal vol." [pos="2.5,0!"]
+	Memory [pos="5,0!"]
+	Motivation [pos="2.5,1.5!"]
+	Motivation [style=dashed]
+	Motivation -> GPS [style=dashed]
+	Motivation -> Memory [style=dashed]
+	GPS -> "Hippocampal vol."
+	"Hippocampal vol." -> Memory
+}

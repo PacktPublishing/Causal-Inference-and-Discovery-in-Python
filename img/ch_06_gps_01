@@ -1,0 +1,9 @@
+digraph {
+	GPS [pos="0,0!"]
+	Memory [pos="3,0!"]
+	Motivation [pos="1.5,1.5!"]
+	Motivation [style=dashed]
+	Motivation -> GPS [style=dashed]
+	Motivation -> Memory [style=dashed]
+	GPS -> Memory
+}

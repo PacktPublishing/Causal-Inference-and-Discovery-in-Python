@@ -1,0 +1,11 @@
+digraph {
+	X [pos="0,0!"]
+	Z [pos="2.5,0!"]
+	Y [pos="5,0!"]
+	U [pos="2.5,1.5!"]
+	U [style=dashed]
+	U -> X [style=dashed]
+	U -> Y [style=dashed]
+	X -> Z
+	Z -> Y
+}
