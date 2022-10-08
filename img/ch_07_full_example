@@ -1,0 +1,14 @@
+digraph {
+	S [pos="2,2.5!"]
+	Q [pos="3,1!"]
+	X [pos="3,0!"]
+	Y [pos="1, 0!"]
+	P [pos="1,2!"]
+	S -> Q
+	S -> Y
+	Q -> X
+	Q -> Y
+	X -> P
+	Y -> P
+	X -> Y
+}
