@@ -1,0 +1,9 @@
+"Shpitser thesis, Fig 4.1";
+X; W1; W2; Y1; Y2;
+X -> Y1;
+W1 <-> Y1;
+W1 -> X;
+W1 <-> Y2;
+W1 <-> W2;
+W2 -> Y2;
+W2 <-> X;
