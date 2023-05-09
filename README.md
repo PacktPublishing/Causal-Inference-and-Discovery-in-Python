@@ -13,6 +13,8 @@ After a successful installation of the environment, open your notebook and selec
 
 For notebook `Chapter_11.2.ipynb` change kernel to `causal-pymc`
 
+## Using `graphviz` and GPU
+
 **Note**: Depending on your system settings, you might need to install `graphviz` manually in order to recreate the graph plots in the code. 
 Check https://pypi.org/project/graphviz/ for specific instructions 
 specific to your operating system.
