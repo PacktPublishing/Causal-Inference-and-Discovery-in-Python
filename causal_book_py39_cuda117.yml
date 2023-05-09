@@ -1,0 +1,29 @@
+name: causal_book_py39_cuda117
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+  - pytorch
+dependencies:
+  - pip
+  - python=3.9
+  - nb_conda
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pytorch
+  - pytorch-cuda=11.7
+  - pygam
+  - lightgbm
+  - transformers
+  - pip:
+    - econml
+    - networkx==2.8.7
+    - dowhy==0.8
+    - gcastle==1.0.3
+    - graphviz
+    - causal-learn==0.1.3.3
+    - grapl-causal==1.5.1
+    - causica==0.2.0
+    - catenets==0.2.3
