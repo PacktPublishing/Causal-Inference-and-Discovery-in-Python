@@ -1,6 +1,6 @@
 # Causal Inference and Discovery in Python
 
-<a href="https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989"><img src="https://m.media-amazon.com/images/I/41Mf1KzmKOL._SX404_BO1,204,203,200_.jpg" alt="Causal Inference and Discovery in Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989"><img src="https://content.packt.com/B18993/cover_image_small.jpg" alt="Causal Inference and Discovery in Python" height="256px" align="right"></a>
 
 This is the code repository for [Causal Inference and Discovery in Python](https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989), published by Packt.
 
