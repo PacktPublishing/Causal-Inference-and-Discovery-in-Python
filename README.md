@@ -97,3 +97,24 @@ For known errors and corrections check:
 * [Books purchased after ~12:00 PM on June 13, 2023](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python/blob/main/errata/Errata%20-%20Non-Early%20Print%20(ordered%20after%20June%2013%202023).ipynb)
 
 If you spotted a mistake, let us know at book(at)causalpython.io or just open an **issue** in this repo. Thank you 🙏🏼
+
+## Citation
+
+### Bibtex
+```{bibtex}
+@book{Molak2023,
+    title = "Causal Inference and Discovery in Python: Unlock the secrets of modern causal machine learning with DoWhy, EconML, PyTorch and more",
+    author = "Molak, Aleksander",
+    publisher = "Packt Publishing",
+    address = "Birmingham",
+    edition = "1.",
+    year = "2023",
+    isbn = "1804612987",
+    note = {\url{https://amzn.to/3RebWzn}}
+}
+```
+
+### APA
+```
+Molak, A. (2023). Causal Inference and Discovery in Python: Unlock the secrets of modern causal machine learning with DoWhy, EconML, PyTorch and more. Packt Publishing.
+```
