@@ -69,11 +69,11 @@ With the following software and hardware list you can run all code files present
 # Note from the Author:
 
 ## Environment installation
-To install the basic environment run:
-`conda env create -f causal_book_py39_cuda117.yml`
+1. See the section **Using `graphviz` and GPU** below
 
-To install the environment for notebook `Chapter_11.2.ipynb` run:
-`conda create -f causal-pymc.yml`
+2. To install the basic environment run: `conda env create -f causal_book_py39_cuda117.yml`
+
+3. To install the environment for notebook `Chapter_11.2.ipynb` run: `conda create -f causal-pymc.yml`
 
 ## Selecting the kernel
 After a successful installation of the environment, open your notebook and select the kernel `causal_book_py39_cuda117`
