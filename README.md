@@ -89,15 +89,6 @@ specific to your operating system.
 **Note 2**: To use GPU you'll need to install CUDA 11.7 drivers.
 This can be done here: https://developer.nvidia.com/cuda-11-7-0-download-archive
 
-## ‼️ Known mistakes // errata
-For known errors and corrections check:
-
-* [Books purchased before ~12:00 PM on June 13, 2023](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python/blob/main/errata/Errata%20-%20Early%20Print%20(ordered%20before%20June%2013%202023).ipynb)
-
-* [Books purchased after ~12:00 PM on June 13, 2023](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python/blob/main/errata/Errata%20-%20Non-Early%20Print%20(ordered%20after%20June%2013%202023).ipynb)
-
-If you spotted a mistake, let us know at book(at)causalpython.io or just open an **issue** in this repo. Thank you 🙏🏼
-
 ## Citation
 
 ### BibTeX
@@ -118,3 +109,12 @@ If you spotted a mistake, let us know at book(at)causalpython.io or just open an
 ```
 Molak, A. (2023). Causal Inference and Discovery in Python: Unlock the secrets of modern causal machine learning with DoWhy, EconML, PyTorch and more. Packt Publishing.
 ```
+
+## ‼️ Known mistakes // errata
+For known errors and corrections check:
+
+* [Books purchased before ~12:00 PM on June 13, 2023](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python/blob/main/errata/Errata%20-%20Early%20Print%20(ordered%20before%20June%2013%202023).ipynb)
+
+* [Books purchased after ~12:00 PM on June 13, 2023](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python/blob/main/errata/Errata%20-%20Non-Early%20Print%20(ordered%20after%20June%2013%202023).ipynb)
+
+If you spotted a mistake, let us know at book(at)causalpython.io or just open an **issue** in this repo. Thank you 🙏🏼
