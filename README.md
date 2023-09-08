@@ -83,7 +83,7 @@ For notebook `Chapter_11.2.ipynb` change kernel to `causal-pymc`
 ## Using `graphviz` and GPU
 
 **Note**: Depending on your system settings, you might need to install `graphviz` manually in order to recreate the graph plots in the code. 
-Check https://pypi.org/project/graphviz/ for specific instructions 
+Check https://pypi.org/project/graphviz/ for instructions 
 specific to your operating system.
 
 **Note 2**: To use GPU you'll need to install CUDA 11.7 drivers.
