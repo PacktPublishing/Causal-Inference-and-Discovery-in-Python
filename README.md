@@ -100,17 +100,17 @@ If you spotted a mistake, let us know at book(at)causalpython.io or just open an
 
 ## Citation
 
-### Bibtex
+### BibTeX
 ```{bibtex}
 @book{Molak2023,
-    title = "Causal Inference and Discovery in Python: Unlock the secrets of modern causal machine learning with DoWhy, EconML, PyTorch and more",
-    author = "Molak, Aleksander",
-    publisher = "Packt Publishing",
-    address = "Birmingham",
-    edition = "1.",
-    year = "2023",
-    isbn = "1804612987",
-    note = {\url{https://amzn.to/3RebWzn}}
+    title={Causal Inference and Discovery in Python: Unlock the secrets of modern causal machine learning with DoWhy, EconML, PyTorch and more},
+    author={Molak, Aleksander},
+    publisher={Packt Publishing},
+    address={Birmingham},
+    edition={1.},
+    year={2023},
+    isbn={1804612987},
+    note={\url{https://amzn.to/3RebWzn}}
 }
 ```
 
