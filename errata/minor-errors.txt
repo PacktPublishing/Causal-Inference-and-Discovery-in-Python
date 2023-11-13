@@ -1,0 +1,6 @@
+## Chapter 06
+
+- Code section "Front-door in practice"
+  - `class GPSMemorySCM:`:
+    - `u_y` is not used anywhere while it should be used in the `memory` computations [reported by Arash A.]
+
