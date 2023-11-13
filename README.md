@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Causal Inference and Discovery in Python
 
 <a href="https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989"><img src="https://content.packt.com/B18993/cover_image_small.jpg" alt="Causal Inference and Discovery in Python" height="256px" align="right"></a>
@@ -58,6 +66,11 @@ With the following software and hardware list you can run all code files present
 |  	1-15	   | Transformers 4.24.0 | Windows, macOS, or Linux |
 
 
+## Join our Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
+
+Join our Discord community to meet like-minded people and learn alongside more than 2000 members at [Discord](https://packt.link/infer) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+
 ### Related products <Other books you may enjoy>
 * Hands-On Graph Neural Networks Using Python  [[Packt]](https://www.packtpub.com/product/hands-on-graph-neural-networks-using-python/9781804617526) [[Amazon]](https://www.amazon.com/Hands-Graph-Neural-Networks-Python/dp/1804617520/ref=sr_1_1?keywords=Hands-On+Graph+Neural+Networks+Using+Python&s=books&sr=1-1)
   
@@ -65,6 +78,9 @@ With the following software and hardware list you can run all code files present
   
 ## Get to Know the Author
 **Aleksander Molak** is a Machine Learning Researcher and Consultant who gained experience working with Fortune 100, Fortune 500, and Inc. 5000 companies across Europe, the USA, and Israel, designing and building large-scale machine learning systems. On a mission to democratize causality for businesses and machine learning practitioners, Aleksander is a prolific writer, creator, and international speaker. As a co-founder of Lespire, an innovative provider of AI and machine learning training for corporate teams, Aleksander is committed to empowering businesses to harness the full potential of cutting-edge technologies that allow them to stay ahead of the curve.
+
+
+
 
 # Note from the Author:
 
