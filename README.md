@@ -1,10 +1,4 @@
 
-### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
-
-<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
-3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
-
-Code: <b>USD75OFF</b>
 
 # Causal Inference and Discovery in Python
 
@@ -77,7 +71,8 @@ Join our Discord community to meet like-minded people and learn alongside more t
 * Applying Math with Python - Second Edition  [[Packt]](https://www.packtpub.com/product/applying-math-with-python-second-edition/9781804618370) [[Amazon]](https://www.amazon.com/Applying-Math-Python-real-world-computational/dp/1804618373/ref=sr_1_1?keywords=Applying+Math+with+Python+-+Second+Edition&s=books&sr=1-1)
   
 ## Get to Know the Author
-**Aleksander Molak** is a Machine Learning Researcher and Consultant who gained experience working with Fortune 100, Fortune 500, and Inc. 5000 companies across Europe, the USA, and Israel, designing and building large-scale machine learning systems. On a mission to democratize causality for businesses and machine learning practitioners, Aleksander is a prolific writer, creator, and international speaker. As a co-founder of Lespire, an innovative provider of AI and machine learning training for corporate teams, Aleksander is committed to empowering businesses to harness the full potential of cutting-edge technologies that allow them to stay ahead of the curve.
+[**Aleksander Molak**](https://www.linkedin.com/in/aleksandermolak/) is a Machine Learning Researcher and Consultant who gained experience working with Fortune 100, Fortune 500, and Inc. 5000 companies across Europe, the USA, and Israel, designing and building large-scale machine learning systems. On a mission to democratize causality for businesses and machine learning practitioners, Aleksander is a prolific writer, creator, and international speaker. As a co-founder of Lespire, an innovative provider of AI and machine learning training for corporate teams, Aleksander is committed to empowering businesses to harness the full potential of cutting-edge technologies that allow them to stay ahead of the curve.
+He's the host of the Causal AI-centered [Causal Bandits Podcast](https://causalbanditspodcast.com/).
 
 
 
