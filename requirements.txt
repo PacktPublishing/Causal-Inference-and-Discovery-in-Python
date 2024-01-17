@@ -1,0 +1,4 @@
+autoreload
+matplotlib
+numpy
+scikit-learn
