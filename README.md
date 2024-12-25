@@ -84,7 +84,7 @@ He's the host of the Causal AI-centered [Causal Bandits Podcast](https://causalb
 
 2. To install the basic environment run: `conda env create -f causal_book_py39_cuda117.yml`
 
-3. To install the environment for notebook `Chapter_11.2.ipynb` run: `conda create -f causal-pymc.yml`
+3. To install the environment for notebook `Chapter_11.2.ipynb` run: `conda env create -f causal-pymc.yml`
 
 **NOTE:** We added an experimental environment for Apple M1 as suggested by @ferrari-leo [here](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python/issues/8). This environment hasn't been thoroughly tested so please use it at your own risk. 
 
