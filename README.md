@@ -87,6 +87,8 @@ With the following software and hardware list you can run all code files present
 |  	1-15	   | Causal-learn 0.1.3.3 | Windows, macOS, or Linux |
 |  	1-15	   | Transformers 4.24.0 | Windows, macOS, or Linux |
 
+## Errata
+Errata Page 33: **Y := TU + (T – 1)(U – 1)** _should be_ **Y := T · U**
 
 ## Join our Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
