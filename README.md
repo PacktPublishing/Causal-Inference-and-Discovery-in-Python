@@ -161,3 +161,7 @@ For known errors and corrections check:
 * [Books purchased after ~12:00 PM on June 13, 2023](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python/blob/main/errata/Errata%20-%20Non-Early%20Print%20(ordered%20after%20June%2013%202023).ipynb)
 
 If you spotted a mistake, let us know at book(at)causalpython.io or just open an **issue** in this repo. Thank you 🙏🏼
+
+<!--
+* Page 33: **Y ≔ TU + ( T − 1 )( U − 1 )** _should be_ **Y := T · U**
+-->
